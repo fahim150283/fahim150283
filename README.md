@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img allign="center" src="https://media.tenor.com/XOsycvuUEWgAAAAd/pixelart-indie.gif" />
 ### I am Abul Hossain Chowdhury.
 
 - 🔭 I’m currently working on different projects
@@ -8,4 +9,5 @@
 ### Connect with me :
 
 
-<img src="https://media.tenor.com/XOsycvuUEWgAAAAd/pixelart-indie.gif" />
+
+
