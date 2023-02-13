@@ -8,4 +8,4 @@
 ### Connect with me :
 
 
-https://media.tenor.com/XOsycvuUEWgAAAAd/pixelart-indie.gif
+<img src="https://media.tenor.com/XOsycvuUEWgAAAAd/pixelart-indie.gif" />
