@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abul Hossain Chowdhury.</div>  
   
 
-- 🔭 I’m currently working on some projects.  
+- 🔭 I’m currently working on some Web-applications.  
   
 
 - 🌱 I’m currently learning website automation and website designing.  
