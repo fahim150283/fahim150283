@@ -6,10 +6,10 @@
 ### <div align="center">I'm Abul Hossain Chowdhury.</div>  
   
 
-- 🔭 I’m currently working on some Web-applications.  
+- 🌱 I’m currently learning website automation and website designing.  
   
 
-- 🌱 I’m currently learning website automation and website designing.  
+- 🔭 I’m currently working on some Web-applications.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -66,12 +66,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fahim150283&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
